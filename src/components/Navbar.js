@@ -6,10 +6,10 @@ const Navbar = () => {
   return (
 <>
     <div className='nav'>
-        
+    {/* <Link to="./FunctionDetails" activeClassName="current">hello</Link> */}
     </div>
 
-    <div></div>
+    
 </>
   )
 }
