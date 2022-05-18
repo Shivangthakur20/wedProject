@@ -4,16 +4,24 @@ import "../styles/Navbar.css"
 
 const Navbar = () => {
   return (
-<>
+
     <div className='nav'>
-    {/* <Link to="./FunctionDetails" activeClassName="current">hello</Link> */}
-    SHIVANG WEDS MEENAKSHI
+  
+    
+    <p className='headtext'>SHIVANG WEDS MEENAKSHI 
+     </p>
+     <p className='space'>--</p>
+     <p className='date'>  (8-July and 9-July)</p>
+    
+    
     </div>
-    <h1 className='headername' >Welcome</h1>
+    
+    
+    
 
 
     
-</>
+
   )
 }
 
