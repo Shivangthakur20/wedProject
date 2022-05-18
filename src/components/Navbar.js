@@ -7,7 +7,10 @@ const Navbar = () => {
 <>
     <div className='nav'>
     {/* <Link to="./FunctionDetails" activeClassName="current">hello</Link> */}
+    SHIVANG WEDS MEENAKSHI
     </div>
+    <h1 className='headername' >Welcome</h1>
+
 
     
 </>

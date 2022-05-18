@@ -19,3 +19,9 @@
     font-weight: 500;
     font-size: 1.1vmax;
 }
+
+.headername{
+    font-style: italic;
+    color: black;
+    align-content: center;
+}
